@@ -1,0 +1,7 @@
+custom images
+html images
+css file
+js file
+jquery
+lettering.js
+textillate.js
